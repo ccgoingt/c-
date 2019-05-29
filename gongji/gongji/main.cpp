@@ -25,7 +25,7 @@ void UperToLowerToUper(){
 			i=i+32;
 			cout<<"转化后："<<i<<endl;; 
 		}
-		cin>>i;  我
+		cin>>i;  
 	}
 }
 //字符比较
